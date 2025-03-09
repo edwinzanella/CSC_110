@@ -1,1 +1,1 @@
-# CSC_110
+An archive of my CSC 110 asssignments from Spring of 2023.
